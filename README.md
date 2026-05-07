@@ -16,6 +16,3 @@ A modern responsive portfolio website made using only HTML and CSS.
 
 ## Preview
 Modern portfolio card with animated background and glass effect.
-
-## Author
-Hemraj Adhikari
